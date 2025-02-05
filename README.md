@@ -1,4 +1,4 @@
-# YouTube and Spotify Downloader
+# Spotify Downloader
 
 A simple downloader script for YouTube videos and Spotify playlists. It allows you to search for YouTube videos by song name, download them as MP3 files, and also download videos from YouTube playlists and Spotify playlists.
 
