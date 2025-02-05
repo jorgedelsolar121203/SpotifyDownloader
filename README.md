@@ -35,7 +35,4 @@ A simple downloader script for YouTube videos and Spotify playlists. It allows y
 
 ## Usage
 
-Run the script in your terminal:
-
-```bash
-python downloader_script.py
+Run the script in your terminal
